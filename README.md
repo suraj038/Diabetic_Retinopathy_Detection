@@ -49,12 +49,11 @@ Input data (raw) is like this -
  (Otherwise, locally you can run the executable file multiple times to open and run the GUI and it works fine).      
  
 # Navigating the project :  
-* [Check out the training code here](https://github.com/suraj038/Diabetic_Retinopathy_Detection/training.ipynb)  
-* [Check out testing done on unseen image](https://github.com/suraj038/Diabetic_Retinopathy_Detection/Single_test_inference.ipynb)    
-* [Check out the executable file (for running GUI)](https://github.com/suraj038/Diabetic_Retinopathy_Detection/blindness.py)    
-* [check out the model executable file (for loading to get inference locally)](https://github.com/suraj038/Diabetic_Retinopathy_Detection/model.py)    
-* [check out the Twilio API executable file (to get SMS for inference)](https://github.com/suraj038/Diabetic_Retinopathy_Detection/send_sms.py)
-* [for getting pre-trained weights for this model, check out getting started section here](https://github.com/suraj038/Diabetic_Retinopathy_Detection/GettingStarted.md)       
+* [Check out the training code here](https://github.com/suraj038/Diabetic_Retinopathy_Detection/blob/master/DR1_training.ipynb)  
+* [Check out the executable file (for running GUI)](https://github.com/suraj038/Diabetic_Retinopathy_Detection/blob/master/blindness.py)    
+* [check out the model executable file (for loading to get inference locally)](https://github.com/suraj038/Diabetic_Retinopathy_Detection/blob/master/model.py)    
+* [check out the Twilio API executable file (to get SMS for inference)](https://github.com/suraj038/Diabetic_Retinopathy_Detection/blob/master/send_sms.py)
+* [for getting pre-trained weights for this model, check out getting started section here](https://github.com/suraj038/Diabetic_Retinopathy_Detection/blob/master/GettingStarted.md)       
 
 [Note : The training files in this repo is only shown after final training as it took around more than 100 epochs to reach 97% accuracy and a lot of compute power and time.]     
 
