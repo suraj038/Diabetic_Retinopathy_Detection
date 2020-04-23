@@ -8,15 +8,15 @@ class Send:
 
     def send_msg(self,value,classes):
     #     # Your Account SID from twilio.com/console
-        account_sid = "AC2c3f836befda3c8529953adee0af569b"
+        account_sid = "***************************************"
     #     # Your Auth Token from twilio.com/console
-        auth_token  = "69327eb4a4b72a5121e10f9a65fb4d0a"
+        auth_token  = "***************************************"
     #
         client = Client(account_sid, auth_token)
     #
         message = client.messages.create(
-            to="+91 63607 59972",
-            from_="+15109441462",
+            to="*****************",
+            from_="**************",
             body=f"Message from suraj \n Diabetic Retinopathy Detection System Report! severity level is {value}:  and class is {classes}")
     #
         print('Message sent Succesfully !')
