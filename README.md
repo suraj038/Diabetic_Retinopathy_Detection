@@ -19,6 +19,7 @@ I also used Twilio API to Make SMS connectivity to patients possible in case the
 | Frontend development | Tkinter (Python GUI toolkit) |
 | Database connectivity | HeidiSQL (MySQL server) |
 | Programming Languages | Python, SQL |
+| Library | Pytorch |
 | API | Twilio cloud API|      
 
 # Data visualization :     
