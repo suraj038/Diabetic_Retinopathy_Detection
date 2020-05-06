@@ -25,6 +25,10 @@ I also used Twilio API to Make SMS connectivity to patients possible in case the
 Input data (raw) is like this -     
 ![visual1](images/visual1.JPG)
    
+# Resnet152 model summary :     
+I have only shown below the main layers of resnet and each of the 'layer1', 'layer2', 'layer3' and 'layer4' contains various more layers.      
+
+![mat](images/mat.png) 
 
 # Visualization of complete system : Demo Video Of Project    
 ![visual](images/vid.gif)    
